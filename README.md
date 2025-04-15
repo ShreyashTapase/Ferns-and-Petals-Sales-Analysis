@@ -11,6 +11,7 @@ The Fern & Petals Sales Analysis project focused on delivering actionable busine
 - Average Customer Spending: ₹3,520.98
 
 **Insights Delivered:**
+
 _1.Occasion-Based Revenue Analysis:_
 
 - Top-performing occasion: Anniversary, followed closely by Raksha Bandhan and Valentine’s Day.
